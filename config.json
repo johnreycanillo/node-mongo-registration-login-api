@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString": "mongodb+srv://canillodb:linagpang12345@canillodb.v0zvm.mongodb.net/canillodb?retryWrites=true&w=majority",
+    "connectionString": "mongodb+srv://johnreycanillo:linagpang12345@canillocluster.qtv3j.mongodb.net/canillodbs?retryWrites=true&w=majority",
     "secret": "superman@12345"
 }

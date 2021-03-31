@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString": "mongodb://localhost/node-mongo-registration-login-api",
+    "connectionString": "mongodb+srv://canillodb:linagpang12345@canillodb.v0zvm.mongodb.net/canillodb?retryWrites=true&w=majority",
     "secret": "superman@12345"
 }

@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "NodeJS + MongoDB API for User Management, Authentication and Registration",
     "license": "MIT",
+    "author": "John Rey P. Canillo",
     "repository": {
         "type": "git",
         "url": "https://github.com/cornflourblue/node-mongo-registration-login-api.git"
